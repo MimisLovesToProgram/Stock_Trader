@@ -1,0 +1,19 @@
+1. Statistical Updates [CONSTANT]:
+
+  - Change statistics if necessary.
+  - Alter buying / selling / open / closing conditions if necessary.
+
+2. Find A Way To Deal With Cookie Renewals For WSJ And HuggingFace Log-ins:
+
+  - ..just think of something and add it.
+
+3. Add Dates To Preprocessed News In The File:
+
+  - ..and then check for them in the code, to only count a week's news, and keep a week's news.
+
+4. Debug Code For Errors:
+
+  - Check whether concurrency and preprocessing stuff work, and if anything is broken.
+  - If something is broken, obviously fix it..
+
+
